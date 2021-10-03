@@ -40,4 +40,4 @@ You will also see any lint errors in the console.
 
 
 **Live Link**
-[https://gallant-newton-d46ad2.netlify.app/](url)
+https://gallant-newton-d46ad2.netlify.app/
