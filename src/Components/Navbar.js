@@ -16,7 +16,7 @@ function Navbar() {
                 <div className='navbar'>
 
                     <div className='logo'>
-                        <Link to="/"><h1>Rick & Morty</h1></Link>
+                        <Link to="/"><h1>Rick & Morty by Suraj Arya</h1></Link>
                     </div>
 
 
